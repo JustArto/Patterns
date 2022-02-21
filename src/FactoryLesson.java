@@ -1,3 +1,4 @@
+/*
 public class FactoryLesson {
     public static void main(String[] args) {
         Factory factory = new Factory();
@@ -33,4 +34,4 @@ class Factory{
             default:return null;
         }
     }
-}
+}*/
